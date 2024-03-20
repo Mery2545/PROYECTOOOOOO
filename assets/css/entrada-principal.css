@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/491/246/390/mononoke-princess-mononoke-anime-girls-movies-studio-ghibli-hd-wallpaper-preview.jpg);
+    background-position: 90% ; /*esto determina que tan a la izquierda comenzará*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+    color: azure;
+    font-size: 50px;
+}
+hr{
+    margin-top: 0;
+    margin-bottom: 0;
+    left: auto;
+    color: azure;
+   }
+.btn-btn-link{
+    border-radius: 30px;
+    border: 10px;
+    border-color: violet;
+}
+h2{
+    text-align: center;
+    color: rgb(236, 204, 17);
+    font-size: 40px;
+}
+img{
+    width: 40%;
+    padding: 30px;
+    display: flex;
+   justify-content: right;
+    justify-content: center;
+    margin-left: 100%;
+    border: 4px solid;
+    margin: auto;
+}

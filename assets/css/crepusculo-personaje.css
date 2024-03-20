@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/9a/59/08/9a590885e969851bf1dc57df034f9963.gif);
+    background-position: 90% ; /*esto determina que tan a la izquierda comenzará*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+img{
+    width: 40%;
+   padding: 450px;
+   margin: 450;
+   display: flex;
+   justify-content: center;
+}
+h1{
+    color: rgb(243, 156, 25);
+    font-size: 70px;
+    text-align: center;
+        font-family: "Norican", cursive;
+        font-weight: 600;
+        font-style: normal;
+
+}
+a{
+    color: aliceblue;
+    background-color: yellowgreen;
+    margin: 30px;
+}

@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://pa1.aminoapps.com/7787/5d6630d31d477910d879c794d8cea701ea752f06r1-500-219_hq.gif);
+    background-position: 90% ; /*esto determina que tan a la izquierda comenzará*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+img{
+    width: 40%;
+   padding: 450px;
+   margin: 450;
+   display: flex;
+   justify-content: center;
+}
+h1{
+    color: rgb(160, 107, 221);
+    font-size: 70px;
+    text-align: center;
+    font-family: "Niconne", cursive;
+    font-weight: 850;
+    font-style: normal;
+
+      
+}
+a{
+    color: aliceblue;
+    background-color: yellowgreen;
+    margin: 30px;
+}

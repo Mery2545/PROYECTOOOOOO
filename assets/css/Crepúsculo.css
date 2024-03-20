@@ -1,0 +1,43 @@
+img{
+    width: 40%;
+   padding: 450px;
+   margin: 450;
+   display: flex;
+   justify-content: center;
+}
+h1{
+    color: rgb(27, 138, 101);
+    font-size: 70px;
+    text-align: center;
+    font-family: "Niconne", cursive;
+    font-weight: 400;
+        font-style: normal;
+
+      
+}
+body{
+    background-position: 90% ; /*esto determina que tan a la izquierda comenzará*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(https://31.media.tumblr.com/3181afddc28fe0f9945a7d6916517773/tumblr_ms9fixdNO01sa0u5yo1_500.gif)
+}
+.accordion-button{
+    color: aliceblue;
+    background-color: cornflowerblue;
+}
+.accordion-body{
+    padding: 2%;
+    color: aliceblue;
+    background-image: url(https://i.pinimg.com/736x/3f/bb/a4/3fbba4c62c4042dbeb047946a14078b7.jpg);
+}
+#color{
+    font-family: "Marcador permanente", cursiva;
+    color: brown;
+}
+#accordionExample{
+    padding: 50px;
+}
+#accordionExample{
+    padding: 270px;
+}
